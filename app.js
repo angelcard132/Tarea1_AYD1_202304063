@@ -5,7 +5,7 @@ const app = express();
 app.get("/", (req, res) => {
     res.json({
         nombre: "Angel Cardenas",
-        cancionFavorita: "Hollywood - Peso Pluma"
+        cancionFavorita: "Bocanada - Gustavo Cerati",
     });
 });
 
