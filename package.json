@@ -1,0 +1,23 @@
+{
+  "name": "tarea1_ayd1_202304063",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelcard132/Tarea1_AYD1_202304063.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelcard132/Tarea1_AYD1_202304063/issues"
+  },
+  "homepage": "https://github.com/angelcard132/Tarea1_AYD1_202304063#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
